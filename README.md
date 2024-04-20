@@ -61,6 +61,8 @@
 
 ###
 
+<h3 align="left">Snake eating my GitHub contibutions</h3>
+
 <img src="https://raw.githubusercontent.com/RockoRich/RockoRich/output/snake.svg" alt="Snake animation" />
 
 ###
